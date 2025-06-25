@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Builds
+/dist/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+npm-debug.log*
+
+# Coverage
+/coverage/
